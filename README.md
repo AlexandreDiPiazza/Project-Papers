@@ -6,7 +6,9 @@
 This paper studies the detection of satellite tracks in images of the universe produced by a satellite.
 We use Deep Leaning to create synthetic data with a GAN. These images are then used to train a UNET for semantic
 segmentation.
-The python codes can be found on: https://github.com/AlexandreDiPiazza/Semester_Project
+<br />
+The python codes can be found on: 
+https://github.com/AlexandreDiPiazza/Semester_Project
 
 ## OptimizationAlgorithmAnalysis
 We study the performance of a second-order optimization method for training a Neural Network, in comparison
@@ -15,6 +17,7 @@ with the Gradient Descent algorithm.
 ## NNfromScratch
 We implemented from scratch a deep learning framework without the use of external libraries i.e coding 
 both the forward pass and the backpropagation algorithm only with basic Python functions.
+<br />
 The python codes can be found on: 
 https://github.com/AlexandreDiPiazza/NNfromScratch
 
@@ -30,5 +33,6 @@ social networks.
 ## BinaryClassification
 We implemented different NN models (MLP, CNN, siamese Networks) and compared their performance on a binary
 classification task.
+<br />
 The python codes can be found on: 
 https://github.com/AlexandreDiPiazza/BinaryClassification
