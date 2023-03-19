@@ -2,6 +2,15 @@
 
 ## Concise description of each paper
 The pdf of each paper can be found above.
+
+
+## Master Thesis
+This paper is my report for my Master Thesis, done at Harvard University and supervised by Mathieu Salzmann from EPFL
+It studies error correction in axon segmentation.
+<br />
+The python codes can be found on: 
+https://github.com/AlexandreDiPiazza/Master_Thesis
+
 ## SatelliteDetection
 This paper studies the detection of satellite tracks in images of the universe produced by a satellite.
 We use Deep Leaning to create synthetic data with a GAN. These images are then used to train a UNET for semantic
